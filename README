@@ -2,11 +2,11 @@ Bienvemidos a la plicación de Gestión de Empleados y Gerentes
 
 Este es un simple programa de consola en C# que gestiona la información de empleados y gerentes.
 
-## Requisitos
+---------------------- Requisitos
 
 - Visual Studio (o cualquier otro entorno de desarrollo compatible con C#)
 
-## Instrucciones de Ejecución
+---------------------- Instrucciones de Ejecución
 
 1. Clona este repositorio:
 https://github.com/RichardAlban/Gestor_empleados_gerentes.git
