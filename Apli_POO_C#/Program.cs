@@ -153,12 +153,3 @@ class Program
         }
     }
 }
-
-
-// Crear instancias de Empleado y Gerente
-/*Empleado empleado = new Empleado("Diego Recalde", 50000);
-Gerente gerente = new Gerente("Matias Palacios", 80000, "Ventas");
-Empleado empleado1 = new Empleado("David Cantuna", 50000);
-Gerente gerente1 = new Gerente("Maria Villareal", 80000, "Ventas");
-Empleado empleado2 = new Empleado("Pedro Perez", 50000);
-Gerente gerente2 = new Gerente("Carmen Fernandez", 80000, "Ventas");*/
