@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Apli_POO_C#\Apli_POO_C#\bin\Debug\net6.0\Apli_POO_C#.exe
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Apli_POO_C#\Apli_POO_C#\bin\Debug\net6.0\Apli_POO_C#.deps.json
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Apli_POO_C#\Apli_POO_C#\bin\Debug\net6.0\Apli_POO_C#.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Apli_POO_C#\Apli_POO_C#\bin\Debug\net6.0\Apli_POO_C#.dll
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Apli_POO_C#\Apli_POO_C#\bin\Debug\net6.0\Apli_POO_C#.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Apli_POO_C#\Apli_POO_C#\obj\Debug\net6.0\Apli_POO_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Apli_POO_C#\Apli_POO_C#\obj\Debug\net6.0\Apli_POO_C#.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Apli_POO_C#\Apli_POO_C#\obj\Debug\net6.0\Apli_POO_C#.AssemblyInfo.cs
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Apli_POO_C#\Apli_POO_C#\obj\Debug\net6.0\Apli_POO_C#.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Apli_POO_C#\Apli_POO_C#\obj\Debug\net6.0\Apli_POO_C#.dll
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Apli_POO_C#\Apli_POO_C#\obj\Debug\net6.0\refint\Apli_POO_C#.dll
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Apli_POO_C#\Apli_POO_C#\obj\Debug\net6.0\Apli_POO_C#.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Apli_POO_C#\Apli_POO_C#\obj\Debug\net6.0\Apli_POO_C#.genruntimeconfig.cache
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Apli_POO_C#\Apli_POO_C#\obj\Debug\net6.0\ref\Apli_POO_C#.dll
